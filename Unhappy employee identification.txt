@@ -1,0 +1,24 @@
+Hope Artificial Intelligence
+Scenario Based Learning
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately then assigned work will be not finished at the
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for
+this, they want to know which employee may resign next. If they know previously, they can arrange
+alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+A) How will you achieve this in AI?
+   As an AI engineer, identify the problem statement and predict the issue and call to prevent the issue.
+
+B) Find out the 3 -Stage of Problem Identification
+   Requirement is clear. How to predict an unhappy employee?
+   -- Domain selection : NLP
+      And employee data will be in text. So, domain will fall under NLP.
+   -- Learning selection : Supervised Learning 
+      We are identifying the target with multiple input. So, this will fall under Supervised Learning
+   -- Model selection: Classification
+      Target will be happy / unhappy. So, character value as target which will fall under Classification
+   NLP - Supervised - Classification
+
+C) Name the project
+   Unhappy Employee
+D) Create the dummy Dataset.
+   Employee  Employee_feedback employee_involvement  employee_response	Happy_unHappy
